@@ -13,3 +13,7 @@ L-SHIFT : Starts the algorithm
 L-MOUSE : First two clicks sets the starting and ending points respectively. The clicks that follow can be used to set obstacles.
 
 R-MOUSE : Undoes the obstacle/start/end points.
+
+
+https://github.com/VectorSigmaOmega/AStar/assets/69073394/cd165851-6753-4b85-8422-e978c8e8d435
+
