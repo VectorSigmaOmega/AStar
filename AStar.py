@@ -5,19 +5,18 @@ pygame.init()
 
 HEIGHT = 700
 WIDTH = 1000
-CELL = 10
+CELL = 20
 SCREEN = pygame.display.set_mode((WIDTH, HEIGHT))
 
 RED = (255, 0, 0)
-GREEN = (0, 255, 0)
-BLUE = (64, 224, 208)
-YELLOW = (255, 255, 0)
+GREEN = (66, 245, 150)
+BLUE = (66, 135, 245)
 WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
-PURPLE = (128, 0, 128)
+BLACK = (36, 39, 46)
+PURPLE = (141, 66, 245)
 ORANGE = (255, 165 ,0)
 GREY = (128, 128, 128)
-TURQUOISE = (0, 0, 255)
+TURQUOISE = (206, 245, 66)
 
 
 class Cell:
