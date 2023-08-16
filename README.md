@@ -4,8 +4,7 @@ Python program to visualise the A-Star pathfinding algorithm using the pygame li
 I tried to use objects instead of arrays this time.
 
 # Instructions
-
-The only valid ways to travl are horizontally or vertically. This is because allowing diagonal movement would make obstacles irrelevent.
+The only valid ways to travel are horizontally or vertically. This is because allowing diagonal movement would make the obstacles irrelevent.
 
 L-CTRL : Resets the board
 L-SHIFT : Starts the algorithm
